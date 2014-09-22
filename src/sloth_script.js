@@ -71,7 +71,7 @@ $(document).ready(function() {
 
 
   var generatedReplace = [];
-  var generatedReplaceUpper = []''
+  var generatedReplaceUpper = [];
   for (var i = 0, len = dictionary.length; i < len; i++) {
     var word = dictionary[i].replace(/([[^$.|?*+(){}])/g, '\\$1'); //Create RegExp
     generatedReplace.push(word);
