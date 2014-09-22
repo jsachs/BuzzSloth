@@ -3,7 +3,7 @@ BuzzSloth
 
 Replaces obnoxious buzzwords and phrases with the word 'sloth'.
 
-<!-- [Direct download of crx file](), coming soon -->
+[Direct download of crx file](https://github.com/jsachs/BuzzSloth/blob/master/BuzzSloth.crx?raw=true)
 
 Performance
 ------------------
@@ -14,7 +14,7 @@ if you see any ways to speed it up.
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag SlothBuzz.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag BuzzSloth.crx into the page that appears.
 
 License
 -------
