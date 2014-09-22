@@ -1,0 +1,13 @@
+{
+  "name": "BuzzSloth",
+  "version": "0.1",
+  "description": "Replaces obnoxious buzzwords and phrases with the word 'sloth'.",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+			"js": ["jquery-1.11.1.js", "sloth_script.js"],
+			"run_at": "document_end"
+    }
+  ],
+  "manifest_version": 2
+}
