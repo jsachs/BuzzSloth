@@ -3,8 +3,6 @@ BuzzSloth
 
 Replaces obnoxious buzzwords and phrases with the word 'sloth'.
 
-[Direct download of crx file](https://github.com/jsachs/BuzzSloth/blob/master/BuzzSloth.crx?raw=true)
-
 Performance
 ------------------
 
